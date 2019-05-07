@@ -7,6 +7,7 @@ package challange;
 // that will store the length of each side of the triangle.
 public class TriangleChallenge {
 
+
     private int sideA;
     private int sideB;
     private int sideC;
